@@ -1,4 +1,8 @@
-# Mobile Plan Classification: Smart vs. Ultra
+# Mobile Plan Recommendation Model: Smart vs. Ultra
+
+<p align="center">
+  <img src="img/accuracy_comparison.png" width="500">
+</p>
 
 ## 1. The Problem
 Megaline, a mobile carrier, needs to transition from manual or generalized upselling to an automated, data-driven approach. The company requires a robust system to analyze existing customer behavior and accurately recommend one of their two primary plans (Smart or Ultra) to personalize the user experience and optimize plan allocation.
@@ -53,8 +57,8 @@ This project uses an isolated Python environment. To replicate this setup, run t
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/fiorellatrigo/mobile-plan-classification-ML.git
-cd mobile-plan-classification-ML
+git clone https://github.com/fiorellatrigo/mobile-plan-recommendation-ML.git
+cd mobile-plan-recommendation-ML
 
 ```
 
