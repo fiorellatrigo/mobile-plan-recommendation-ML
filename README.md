@@ -53,8 +53,8 @@ This project uses an isolated Python environment. To replicate this setup, run t
 
 ### 1. Clone the repository
 ```bash
-git clone [https://github.com/fiorellatrigo/mobile_plan_classification_ML](https://github.com/fiorellatrigo/mobile_plan_classification_ML)
-cd mobile_plan_classification_ML
+git clone https://github.com/fiorellatrigo/mobile-plan-classification-ML.git
+cd mobile-plan-classification-ML
 
 ```
 
