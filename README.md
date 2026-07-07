@@ -1,7 +1,7 @@
 # Mobile Plan Recommendation Model: Smart vs. Ultra
 
 <p align="center">
-  <img src="img/accuracy_comparison.png" width="500">
+  <img src="img/accuracy_comparison.png" width="700">
 </p>
 
 ## 1. The Problem
